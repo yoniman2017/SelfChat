@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SelfChat</string>
+    <string name="edit_message">Enter a massage</string>
+    <string name="bSend">send</string>
 </resources>
